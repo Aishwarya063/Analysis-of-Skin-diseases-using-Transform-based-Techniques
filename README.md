@@ -16,4 +16,5 @@ Stage III:
 After the image is run through the FFT/DCT and found it’s match. It is represented using subplot with one side as testing image and other side with matched database image. 
 
 "N" on top of image denotes - Image of normal and healthy skin
+
 "A" on top of image denotes - Image of skin lesion 
